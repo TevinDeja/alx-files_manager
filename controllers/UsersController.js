@@ -1,4 +1,3 @@
-//controllers/UsersController.js
 import crypto from 'crypto';
 import dbClient from '../utils/db.js';
 
@@ -45,3 +44,4 @@ class UsersController {
 }
 
 export default UsersController;
+
